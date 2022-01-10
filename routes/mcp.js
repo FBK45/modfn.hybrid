@@ -221,7 +221,8 @@ app.post(
                 break;
 
             case 'ClientQuestLogin':
-            case 'QueryProfile':
+           case 'QueryProfile':
+            case 'ClaimMfaEnabled':
                 switch (profileId) {
 
                     case 'collections':
