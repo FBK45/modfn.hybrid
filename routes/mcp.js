@@ -223,6 +223,7 @@ app.post(
             case 'ClientQuestLogin':
            case 'QueryProfile':
             case 'ClaimMfaEnabled':
+           case 'VerifyRealMoneyPurchase':
                 switch (profileId) {
 
                     case 'collections':
