@@ -81,7 +81,7 @@ app.get('/content/api/pages/fortnite-game', async (req, res) => {
                 tileImage: banner,
                 videoMute: false,
                 hidden: false,
-                tabTitleOverride: 'Storm',
+                tabTitleOverride: 'ModFN',
                 _type: 'CommonUI Simple Message MOTD',
                 title: 'ModFN',
                 body: 'ModFN is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Epic Games.',
