@@ -4,7 +4,7 @@ module.exports = {
     directory: __dirname,
     dir: __dirname,
     season_num: 19, // Update this whenever there is a new season.
-    banner: 'http://127.0.0.1:${port}/modfn.png',
+    banner: 'https://raw.githubusercontent.com/FBK45/modfn.hybrid/master/modfn.png',
 
     background: 'season19'
     /*
