@@ -4,7 +4,7 @@ module.exports = {
     directory: __dirname,
     dir: __dirname,
     season_num: 19, // Update this whenever there is a new season.
-    banner: 'https://cdn.discordapp.com/attachments/898163750287331358/920381230401347696/modfn.png',
+    banner: 'http://127.0.0.1:${port}/modfn.png',
 
     background: 'season19'
     /*
