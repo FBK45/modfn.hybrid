@@ -1,1 +1,1 @@
-web: npm install body-parser
+web: node .
